@@ -1,0 +1,9 @@
+{
+  "firebase": "madcab-chat",
+  "public": "www",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
